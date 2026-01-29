@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-# Chat Playground - Claude Rules
+# Chat Playground - Claude Rules!!!
 
 ## High Level Overview
 This is an educational web application for experimenting with LLM security, guardrails, and chatbot personalities. It's meant to be a companion to "The Developer's Playbook for Large Language Model Security" and the OWASP Top 10 for LLM Applications. 
